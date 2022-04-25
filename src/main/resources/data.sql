@@ -1,0 +1,2 @@
+INSERT into customers(id,customer_name,customer_email,customer_address) VALUES (1,'shashi','shashi@gmail.com','Hyderabad');
+INSERT into customers(id,customer_name,customer_email,customer_address) VALUES (2,'ravi','kumar@gmail.com','Nevada');
